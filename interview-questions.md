@@ -12,6 +12,9 @@ Your answer: The main difference between a parameter and an argument is that the
 
 Researched answer: When referring to JavaScript functions, parameters and arguments are used interchangeably, however this is not the case, and there is a very suble difference. Parameters are variables listed within the function definition, whereas arguements are values that are PASSED to the function when invoked.
 
+Revised research answer: Upon doing further research, I learned that developers and programmers tend to use the terms "parameters" and "argument" mutually, as if they were the same thing, despite them being two different entities that serve two different roles. The key difference is when we refer to parameters, we are usually referring to what is placed within the parenthesis, otherwise known as the function call to denote what arguments we would want to pass into our function, serving essentially as we call in plain-language, a placeholder. This differs from an argument because argument refers to the actual data that was passed through into the function.
+
+
 2. The JavaScript built in method .map() takes predefined parameters. What are they? Which are required and which are optional?
 
 Your answer: Predefined parameters in the .map() method are value, index, and array, and I think that they are all required.
